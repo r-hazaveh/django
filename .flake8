@@ -6,4 +6,4 @@ per-file-ignores =
     django/core/cache/backends/filebased.py:W601
     django/core/cache/backends/base.py:W601
     django/core/cache/backends/redis.py:W601
-    tests/cache/tests.py:W601
+    tests/cache/tests.py:W6010
